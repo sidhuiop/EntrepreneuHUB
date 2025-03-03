@@ -1,2 +1,3 @@
 # EntrepreneuHUB
 The app serves as a platform where entrepreneurs can present their innovative ideas and projects to potential investors, facilitating funding opportunities from MNCs.
+Clearly outline the goals of the project, Create opportunities for entrepreneurs to secure funding from MNCs through direct connections and streamlined proposal submissions, Enhance Collaboration, Offer Educational Resources, Promote Transparency, Build an Entrepreneurial Ecosystem, Encourage Investor Engagement, Implement metrics to track the success of funded projects, investor returns, and the overall impact of the app on entrepreneurship and innovation in various industries  ![image](https://github.com/user-attachments/assets/14960574-1549-44c3-97de-7639a1cdef01)
